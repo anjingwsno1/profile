@@ -24,6 +24,6 @@
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/shen-wang-0b42113b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/anjingwsno1/profile/master/assets/linkedin.svg" alt="Linkedin" height="30" width="30" /></a>
-<a href="mailto:584381148@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/anjingwsno1/profile/master/assets/qqmail.svg" alt="QQmail" height="30" width="30" /></a>
+<a href="mailto:584381148@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/anjingwsno1/profile/master/assets/qqmail.jpeg" alt="QQmail" height="30" width="30" /></a>
 </p>
 
